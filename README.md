@@ -1,4 +1,4 @@
-# How to Create a Free Windows 10 RDP using GitHub | Getscreen Method | M8 CLOUD
+# How to Create a Free Windows 10 RDP using GitHub | Getscreen Method | XUZFAI CLOUD
 
 Hey there, tech enthusiasts! Welcome to this step-by-step guide on setting up your very own free Windows 10 RDP using the powerful combo of GitHub and the Getscreen method. 🚀
 
